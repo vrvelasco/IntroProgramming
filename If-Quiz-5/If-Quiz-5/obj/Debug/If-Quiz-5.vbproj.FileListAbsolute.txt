@@ -1,0 +1,11 @@
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\bin\Debug\If-Quiz-5.exe.config
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\bin\Debug\If-Quiz-5.exe
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\bin\Debug\If-Quiz-5.pdb
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\bin\Debug\If-Quiz-5.xml
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\WindowsApp1.Form1.resources
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\WindowsApp1.Resources.resources
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\If-Quiz-5.vbproj.GenerateResource.cache
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\If-Quiz-5.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\If-Quiz-5.exe
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\If-Quiz-5.xml
+D:\CIS 180\VB\If-Quiz-5\If-Quiz-5\obj\Debug\If-Quiz-5.pdb

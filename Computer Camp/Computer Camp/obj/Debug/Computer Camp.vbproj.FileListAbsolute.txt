@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Computer Camp\Computer Camp\bin\Debug\Computer Camp.exe.config
+D:\CIS 180\VB\Computer Camp\Computer Camp\bin\Debug\Computer Camp.exe
+D:\CIS 180\VB\Computer Camp\Computer Camp\bin\Debug\Computer Camp.pdb
+D:\CIS 180\VB\Computer Camp\Computer Camp\bin\Debug\Computer Camp.xml
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer Camp.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer_Camp.Form1.resources
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer_Camp.Resources.resources
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer Camp.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer Camp.exe
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer Camp.xml
+D:\CIS 180\VB\Computer Camp\Computer Camp\obj\Debug\Computer Camp.pdb

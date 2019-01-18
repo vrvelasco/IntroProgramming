@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Diner\Diner\bin\Debug\Diner.exe.config
+D:\CIS 180\VB\Diner\Diner\bin\Debug\Diner.exe
+D:\CIS 180\VB\Diner\Diner\bin\Debug\Diner.pdb
+D:\CIS 180\VB\Diner\Diner\bin\Debug\Diner.xml
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.Form1.resources
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.Resources.resources
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.exe
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.xml
+D:\CIS 180\VB\Diner\Diner\obj\Debug\Diner.pdb

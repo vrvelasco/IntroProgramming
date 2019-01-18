@@ -1,0 +1,12 @@
+D:\CIS 180\VB\Number List\Number List\bin\Debug\Number List.exe.config
+D:\CIS 180\VB\Number List\Number List\bin\Debug\Number List.exe
+D:\CIS 180\VB\Number List\Number List\bin\Debug\Number List.pdb
+D:\CIS 180\VB\Number List\Number List\bin\Debug\Number List.xml
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number_List.Form1.resources
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number_List.Resources.resources
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.exe
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.xml
+D:\CIS 180\VB\Number List\Number List\obj\Debug\Number List.pdb

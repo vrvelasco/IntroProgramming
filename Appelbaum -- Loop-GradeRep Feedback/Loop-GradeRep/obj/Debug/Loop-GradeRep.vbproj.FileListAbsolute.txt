@@ -1,0 +1,35 @@
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Form1.resources
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Resources.resources
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe.config
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.pdb
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.pdb
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe.config
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.pdb
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.xml
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbprojAssemblyReference.cache
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Form1.resources
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Resources.resources
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.GenerateResource.cache
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.CoreCompileInputs.cache
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.exe
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.xml
+C:\Temp\Loop-GradeRep (2)\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.pdb
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe.config
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\bin\Debug\Loop-GradeRep.pdb
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\bin\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop_GradeRep.Form1.resources
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop_GradeRep.Resources.resources
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Appelbaum -- Loop-GradeRep Feedback\Loop-GradeRep\obj\Debug\Loop-GradeRep.pdb

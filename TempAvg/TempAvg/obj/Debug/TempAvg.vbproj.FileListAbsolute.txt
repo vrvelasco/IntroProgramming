@@ -1,0 +1,11 @@
+D:\CIS 180\VB\TempAvg\TempAvg\bin\Debug\TempAvg.exe.config
+D:\CIS 180\VB\TempAvg\TempAvg\bin\Debug\TempAvg.exe
+D:\CIS 180\VB\TempAvg\TempAvg\bin\Debug\TempAvg.pdb
+D:\CIS 180\VB\TempAvg\TempAvg\bin\Debug\TempAvg.xml
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.Form1.resources
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.Resources.resources
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.exe
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.xml
+D:\CIS 180\VB\TempAvg\TempAvg\obj\Debug\TempAvg.pdb

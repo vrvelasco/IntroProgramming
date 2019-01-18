@@ -1,0 +1,10 @@
+D:\CIS 180\VB\Running Total Starter\Running Total\bin\Debug\Running Total.exe
+D:\CIS 180\VB\Running Total Starter\Running Total\bin\Debug\Running Total.pdb
+D:\CIS 180\VB\Running Total Starter\Running Total\bin\Debug\Running Total.xml
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running Total.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running_Total.Form1.resources
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running_Total.Resources.resources
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running Total.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running Total.exe
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running Total.xml
+D:\CIS 180\VB\Running Total Starter\Running Total\obj\x86\Debug\Running Total.pdb

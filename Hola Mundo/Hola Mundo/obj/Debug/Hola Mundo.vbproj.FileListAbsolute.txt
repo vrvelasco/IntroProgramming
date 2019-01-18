@@ -1,0 +1,10 @@
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.xml
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Form1.resources
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Resources.resources
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.xml
+D:\CIS 180\VB\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb

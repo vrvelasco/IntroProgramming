@@ -1,0 +1,11 @@
+D:\CIS 180\VB\VarDemo\VarDemo\bin\Debug\VarDemo.exe.config
+D:\CIS 180\VB\VarDemo\VarDemo\bin\Debug\VarDemo.exe
+D:\CIS 180\VB\VarDemo\VarDemo\bin\Debug\VarDemo.pdb
+D:\CIS 180\VB\VarDemo\VarDemo\bin\Debug\VarDemo.xml
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.Form1.resources
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.Resources.resources
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.exe
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.xml
+D:\CIS 180\VB\VarDemo\VarDemo\obj\Debug\VarDemo.pdb

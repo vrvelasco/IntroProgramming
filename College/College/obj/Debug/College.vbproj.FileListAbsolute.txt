@@ -1,0 +1,11 @@
+D:\CIS 180\VB\College\College\bin\Debug\College.exe.config
+D:\CIS 180\VB\College\College\bin\Debug\College.exe
+D:\CIS 180\VB\College\College\bin\Debug\College.pdb
+D:\CIS 180\VB\College\College\bin\Debug\College.xml
+D:\CIS 180\VB\College\College\obj\Debug\College.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\College\College\obj\Debug\College.Form1.resources
+D:\CIS 180\VB\College\College\obj\Debug\College.Resources.resources
+D:\CIS 180\VB\College\College\obj\Debug\College.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\College\College\obj\Debug\College.exe
+D:\CIS 180\VB\College\College\obj\Debug\College.xml
+D:\CIS 180\VB\College\College\obj\Debug\College.pdb

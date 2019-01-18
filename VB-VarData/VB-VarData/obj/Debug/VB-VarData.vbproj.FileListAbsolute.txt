@@ -1,0 +1,12 @@
+D:\CIS 180\VB\VB-VarData\VB-VarData\bin\Debug\VB-VarData.exe.config
+D:\CIS 180\VB\VB-VarData\VB-VarData\bin\Debug\VB-VarData.exe
+D:\CIS 180\VB\VB-VarData\VB-VarData\bin\Debug\VB-VarData.pdb
+D:\CIS 180\VB\VB-VarData\VB-VarData\bin\Debug\VB-VarData.xml
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB_VarData.Form1.resources
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB_VarData.Resources.resources
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.exe
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.xml
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.pdb
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.vbprojAssemblyReference.cache
+D:\CIS 180\VB\VB-VarData\VB-VarData\obj\Debug\VB-VarData.vbproj.CoreCompileInputs.cache

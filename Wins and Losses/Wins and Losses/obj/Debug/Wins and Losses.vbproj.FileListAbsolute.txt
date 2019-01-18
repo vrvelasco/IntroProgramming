@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins and Losses.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins_and_Losses.Form1.resources
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins_and_Losses.Resources.resources
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins and Losses.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\bin\Debug\Wins and Losses.exe.config
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\bin\Debug\Wins and Losses.exe
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\bin\Debug\Wins and Losses.pdb
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\bin\Debug\Wins and Losses.xml
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins and Losses.exe
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins and Losses.xml
+D:\CIS 180\VB\Wins and Losses\Wins and Losses\obj\Debug\Wins and Losses.pdb

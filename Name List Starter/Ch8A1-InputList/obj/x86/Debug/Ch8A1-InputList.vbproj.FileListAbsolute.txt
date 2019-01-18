@@ -1,0 +1,49 @@
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.exe
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.pdb
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.xml
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Form1.resources
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Resources.resources
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+G:\VB\Ch8A1-InputList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb
+G:\VB\Ch8A1-ListIO\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+G:\VB\Ch8A1-ListIO\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+G:\VB\Ch8A1-ListIO\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.exe
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.pdb
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.xml
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Form1.resources
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Resources.resources
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.exe
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.pdb
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.xml
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Form1.resources
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Resources.resources
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VB\Ch8A1-NameList\Ch8A1-InputList\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SWIC\CIS180\Assignments\Programs\Ch8A1-NameList-StarterProject\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+G:\SWIC\CIS180\Assignments\Programs\Ch8A1-NameList-StarterProject\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+G:\SWIC\CIS180\Assignments\Programs\Ch8A1-NameList-StarterProject\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.exe
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.pdb
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\bin\Debug\Ch8A1-InputList.xml
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Form1.resources
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1_InputList.Resources.resources
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.exe
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.xml
+D:\CIS 180\VB\Name List Starter\Ch8A1-InputList\obj\x86\Debug\Ch8A1-InputList.pdb

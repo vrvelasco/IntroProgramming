@@ -1,0 +1,24 @@
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\bin\Debug\Clock v2.exe.config
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\bin\Debug\Clock v2.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\bin\Debug\Clock v2.pdb
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\bin\Debug\Clock v2.xml
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.vbprojAssemblyReference.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock_v2.Form1.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock_v2.Resources.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.vbproj.GenerateResource.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.vbproj.CoreCompileInputs.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.xml
+C:\Users\VRVel\AppData\Local\Temporary Projects\Clock v2\obj\Debug\Clock v2.pdb
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock_v2.Form1.resources
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock_v2.Resources.resources
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.exe
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.xml
+D:\CIS 180\VB\Clock v2\Clock v2\obj\Debug\Clock v2.pdb
+D:\CIS 180\VB\Clock v2\Clock v2\bin\Debug\Clock v2.exe.config
+D:\CIS 180\VB\Clock v2\Clock v2\bin\Debug\Clock v2.exe
+D:\CIS 180\VB\Clock v2\Clock v2\bin\Debug\Clock v2.pdb
+D:\CIS 180\VB\Clock v2\Clock v2\bin\Debug\Clock v2.xml

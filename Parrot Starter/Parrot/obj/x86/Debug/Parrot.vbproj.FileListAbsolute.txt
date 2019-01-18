@@ -1,0 +1,27 @@
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\bin\Debug\Parrot.exe
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\bin\Debug\Parrot.pdb
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\bin\Debug\Parrot.xml
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\Parrot.Form1.resources
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\Parrot.Resources.resources
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\Parrot.exe
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\Parrot.xml
+G:\SWIC\CIS180\Chapter9\Parrot\Parrot\obj\x86\Debug\Parrot.pdb
+G:\SWIC\CIS180\Chapter9\Parrot Completed\Parrot\obj\x86\Debug\Parrot.exe
+G:\SWIC\CIS180\Chapter9\Parrot Completed\Parrot\obj\x86\Debug\Parrot.xml
+G:\SWIC\CIS180\Chapter9\Parrot Completed\Parrot\obj\x86\Debug\Parrot.pdb
+C:\Temp\Parrot Completed\Parrot\obj\x86\Debug\Parrot.exe
+C:\Temp\Parrot Completed\Parrot\obj\x86\Debug\Parrot.xml
+C:\Temp\Parrot Completed\Parrot\obj\x86\Debug\Parrot.pdb
+D:\CIS 180\VB\Parrot Starter\Parrot\bin\Debug\Parrot.exe
+D:\CIS 180\VB\Parrot Starter\Parrot\bin\Debug\Parrot.pdb
+D:\CIS 180\VB\Parrot Starter\Parrot\bin\Debug\Parrot.xml
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.Form1.resources
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.Resources.resources
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.exe
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.xml
+D:\CIS 180\VB\Parrot Starter\Parrot\obj\x86\Debug\Parrot.pdb

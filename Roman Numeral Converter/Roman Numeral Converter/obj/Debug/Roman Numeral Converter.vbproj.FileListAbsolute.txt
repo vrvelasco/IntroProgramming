@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.xml
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Resources.resources
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+D:\CIS 180\VB\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb

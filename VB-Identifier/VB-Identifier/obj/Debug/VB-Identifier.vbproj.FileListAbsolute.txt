@@ -1,0 +1,11 @@
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\bin\Debug\VB-Identifier.exe.config
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\bin\Debug\VB-Identifier.exe
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\bin\Debug\VB-Identifier.pdb
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\bin\Debug\VB-Identifier.xml
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB_Identifier.Form1.resources
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB_Identifier.Resources.resources
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB-Identifier.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB-Identifier.exe
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB-Identifier.xml
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB-Identifier.pdb
+D:\CIS 180\VB\VB-Identifier\VB-Identifier\obj\Debug\VB-Identifier.vbprojResolveAssemblyReference.cache

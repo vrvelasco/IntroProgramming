@@ -1,0 +1,12 @@
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\bin\Debug\VB-Stadium.exe.config
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\bin\Debug\VB-Stadium.exe
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\bin\Debug\VB-Stadium.pdb
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\bin\Debug\VB-Stadium.xml
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.vbprojAssemblyReference.cache
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB_Stadium.Form1.resources
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB_Stadium.Resources.resources
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.vbproj.GenerateResource.cache
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.exe
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.xml
+D:\CIS 180\VB\VB-Stadium\VB-Stadium\obj\Debug\VB-Stadium.pdb

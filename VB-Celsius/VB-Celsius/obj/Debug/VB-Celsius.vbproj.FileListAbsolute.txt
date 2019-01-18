@@ -1,0 +1,12 @@
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\bin\Debug\VB-Celsius.exe.config
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\bin\Debug\VB-Celsius.exe
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\bin\Debug\VB-Celsius.pdb
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\bin\Debug\VB-Celsius.xml
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.vbprojAssemblyReference.cache
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB_Celsius.Form1.resources
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB_Celsius.Resources.resources
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.vbproj.GenerateResource.cache
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.exe
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.xml
+D:\CIS 180\VB\VB-Celsius\VB-Celsius\obj\Debug\VB-Celsius.pdb

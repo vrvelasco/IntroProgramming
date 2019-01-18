@@ -1,0 +1,12 @@
+D:\CIS 180\VB\If-Larger\If-Larger\bin\Debug\If-Larger.exe.config
+D:\CIS 180\VB\If-Larger\If-Larger\bin\Debug\If-Larger.exe
+D:\CIS 180\VB\If-Larger\If-Larger\bin\Debug\If-Larger.pdb
+D:\CIS 180\VB\If-Larger\If-Larger\bin\Debug\If-Larger.xml
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If_Larger.Form1.resources
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If_Larger.Resources.resources
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.exe
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.xml
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.pdb
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.vbprojAssemblyReference.cache
+D:\CIS 180\VB\If-Larger\If-Larger\obj\Debug\If-Larger.vbproj.CoreCompileInputs.cache

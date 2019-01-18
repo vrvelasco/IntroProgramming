@@ -1,0 +1,26 @@
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\bin\Debug\Clock.exe.config
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\bin\Debug\Clock.exe
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\bin\Debug\Clock.pdb
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\bin\Debug\Clock.xml
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.Resources.resources
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.vbproj.GenerateResource.Cache
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.exe
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.xml
+C:\Users\appelblh\AppData\Local\Temporary Projects\Clock\obj\Debug\Clock.pdb
+E:\CIS180\VB\Clock\Clock\bin\Debug\Clock.exe.config
+E:\CIS180\VB\Clock\Clock\obj\Debug\Clock.exe
+E:\CIS180\VB\Clock\Clock\obj\Debug\Clock.xml
+E:\CIS180\VB\Clock\Clock\obj\Debug\Clock.pdb
+D:\CIS 180\VB\Clock Starter\Clock\bin\Debug\Clock.exe.config
+D:\CIS 180\VB\Clock Starter\Clock\bin\Debug\Clock.exe
+D:\CIS 180\VB\Clock Starter\Clock\bin\Debug\Clock.pdb
+D:\CIS 180\VB\Clock Starter\Clock\bin\Debug\Clock.xml
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.Form1.resources
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.Resources.resources
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.exe
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.xml
+D:\CIS 180\VB\Clock Starter\Clock\obj\Debug\Clock.pdb

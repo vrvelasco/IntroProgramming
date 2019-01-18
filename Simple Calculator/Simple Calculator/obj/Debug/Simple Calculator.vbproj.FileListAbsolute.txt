@@ -1,0 +1,12 @@
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.xml
+D:\CIS 180\VB\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb

@@ -1,0 +1,22 @@
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\bin\Debug\Movie Oscars.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\bin\Debug\Movie Oscars.exe
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\bin\Debug\Movie Oscars.pdb
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\bin\Debug\Movie Oscars.xml
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie Oscars.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie_Oscars.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie_Oscars.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie Oscars.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie Oscars.exe
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie Oscars.xml
+C:\Users\student\AppData\Local\Temporary Projects\Movie Oscars\obj\Debug\Movie Oscars.pdb
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\bin\Debug\Movie Oscars.exe.config
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\bin\Debug\Movie Oscars.exe
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\bin\Debug\Movie Oscars.pdb
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\bin\Debug\Movie Oscars.xml
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie Oscars.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie_Oscars.Form1.resources
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie_Oscars.Resources.resources
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie Oscars.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie Oscars.exe
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie Oscars.xml
+D:\CIS 180\VB\Movie Oscars\Movie Oscars\obj\Debug\Movie Oscars.pdb

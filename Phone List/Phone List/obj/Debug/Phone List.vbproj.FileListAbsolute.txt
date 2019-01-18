@@ -1,0 +1,23 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\bin\Debug\Phone List.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\bin\Debug\Phone List.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\bin\Debug\Phone List.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\bin\Debug\Phone List.xml
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone List.vbprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone_List.Form1.resources
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone_List.Resources.resources
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone List.vbproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone List.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone List.xml
+C:\Users\student\Documents\Visual Studio 2017\Projects\Phone List\Phone List\obj\Debug\Phone List.pdb
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone_List.Form1.resources
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone_List.Resources.resources
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.exe
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.xml
+D:\CIS 180\VB\Phone List\Phone List\obj\Debug\Phone List.pdb
+D:\CIS 180\VB\Phone List\Phone List\bin\Debug\Phone List.exe.config
+D:\CIS 180\VB\Phone List\Phone List\bin\Debug\Phone List.exe
+D:\CIS 180\VB\Phone List\Phone List\bin\Debug\Phone List.pdb
+D:\CIS 180\VB\Phone List\Phone List\bin\Debug\Phone List.xml

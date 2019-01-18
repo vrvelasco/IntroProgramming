@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Form1.resources
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop_GradeRep.Resources.resources
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe.config
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.pdb
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\bin\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.exe
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.xml
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.pdb
+D:\CIS 180\VB\Loop-GradeRep\Loop-GradeRep\obj\Debug\Loop-GradeRep.vbprojResolveAssemblyReference.cache

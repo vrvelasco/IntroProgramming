@@ -1,0 +1,12 @@
+D:\CIS 180\VB\If-Mass\If-Mass\bin\Debug\If-Mass.exe.config
+D:\CIS 180\VB\If-Mass\If-Mass\bin\Debug\If-Mass.exe
+D:\CIS 180\VB\If-Mass\If-Mass\bin\Debug\If-Mass.pdb
+D:\CIS 180\VB\If-Mass\If-Mass\bin\Debug\If-Mass.xml
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If_Mass.Form1.resources
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If_Mass.Resources.resources
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.exe
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.xml
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.pdb
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.vbprojAssemblyReference.cache
+D:\CIS 180\VB\If-Mass\If-Mass\obj\Debug\If-Mass.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Hello World\Hello World\bin\Debug\Hello World.exe.config
+D:\CIS 180\VB\Hello World\Hello World\bin\Debug\Hello World.exe
+D:\CIS 180\VB\Hello World\Hello World\bin\Debug\Hello World.pdb
+D:\CIS 180\VB\Hello World\Hello World\bin\Debug\Hello World.xml
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\WindowsApp1.Form1.resources
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\WindowsApp1.Resources.resources
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\Hello World.exe
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\Hello World.xml
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\Hello World.pdb
+D:\CIS 180\VB\Hello World\Hello World\obj\Debug\Hello World.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\CIS 180\VB\IT Camp\IT Camp\bin\Debug\IT Camp.exe.config
+D:\CIS 180\VB\IT Camp\IT Camp\bin\Debug\IT Camp.exe
+D:\CIS 180\VB\IT Camp\IT Camp\bin\Debug\IT Camp.pdb
+D:\CIS 180\VB\IT Camp\IT Camp\bin\Debug\IT Camp.xml
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.vbprojAssemblyReference.cache
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT_Camp.Form1.resources
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT_Camp.Resources.resources
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.vbproj.GenerateResource.cache
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.exe
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.xml
+D:\CIS 180\VB\IT Camp\IT Camp\obj\Debug\IT Camp.pdb

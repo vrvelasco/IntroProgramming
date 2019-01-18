@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Shopping\Shopping\bin\Debug\Shopping.exe.config
+D:\CIS 180\VB\Shopping\Shopping\bin\Debug\Shopping.exe
+D:\CIS 180\VB\Shopping\Shopping\bin\Debug\Shopping.pdb
+D:\CIS 180\VB\Shopping\Shopping\bin\Debug\Shopping.xml
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.Form1.resources
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.Resources.resources
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.exe
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.xml
+D:\CIS 180\VB\Shopping\Shopping\obj\Debug\Shopping.pdb

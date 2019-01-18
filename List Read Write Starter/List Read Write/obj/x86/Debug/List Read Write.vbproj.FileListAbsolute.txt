@@ -1,0 +1,21 @@
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\bin\Debug\List Read Write.exe
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\bin\Debug\List Read Write.pdb
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\bin\Debug\List Read Write.xml
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\List_Read_Write.Form1.resources
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\List_Read_Write.Resources.resources
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\List Read Write.exe
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\List Read Write.xml
+G:\SWIC\CIS180\Chapter9\List Read Write\List Read Write\obj\x86\Debug\List Read Write.pdb
+D:\CIS 180\VB\List Read Write Starter\List Read Write\bin\Debug\List Read Write.exe
+D:\CIS 180\VB\List Read Write Starter\List Read Write\bin\Debug\List Read Write.pdb
+D:\CIS 180\VB\List Read Write Starter\List Read Write\bin\Debug\List Read Write.xml
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List Read Write.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List_Read_Write.Form1.resources
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List_Read_Write.Resources.resources
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List Read Write.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List Read Write.exe
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List Read Write.xml
+D:\CIS 180\VB\List Read Write Starter\List Read Write\obj\x86\Debug\List Read Write.pdb

@@ -1,0 +1,12 @@
+D:\CIS 180\VB\ThreePics\ThreePics\bin\Debug\ThreePics.exe.config
+D:\CIS 180\VB\ThreePics\ThreePics\bin\Debug\ThreePics.exe
+D:\CIS 180\VB\ThreePics\ThreePics\bin\Debug\ThreePics.pdb
+D:\CIS 180\VB\ThreePics\ThreePics\bin\Debug\ThreePics.xml
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.Form1.resources
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.Resources.resources
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.exe
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.xml
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.pdb
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.vbprojAssemblyReference.cache
+D:\CIS 180\VB\ThreePics\ThreePics\obj\Debug\ThreePics.vbproj.CoreCompileInputs.cache

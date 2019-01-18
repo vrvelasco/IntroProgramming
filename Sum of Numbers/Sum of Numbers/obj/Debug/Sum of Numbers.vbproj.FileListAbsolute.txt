@@ -1,0 +1,11 @@
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+D:\CIS 180\VB\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

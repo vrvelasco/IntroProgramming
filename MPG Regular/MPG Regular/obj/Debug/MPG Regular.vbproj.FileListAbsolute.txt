@@ -1,0 +1,11 @@
+D:\CIS 180\VB\MPG Regular\MPG Regular\bin\Debug\MPG Regular.exe.config
+D:\CIS 180\VB\MPG Regular\MPG Regular\bin\Debug\MPG Regular.exe
+D:\CIS 180\VB\MPG Regular\MPG Regular\bin\Debug\MPG Regular.pdb
+D:\CIS 180\VB\MPG Regular\MPG Regular\bin\Debug\MPG Regular.xml
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG Regular.vbprojResolveAssemblyReference.cache
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG_Regular.Form1.resources
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG_Regular.Resources.resources
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG Regular.vbproj.GenerateResource.Cache
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG Regular.exe
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG Regular.xml
+D:\CIS 180\VB\MPG Regular\MPG Regular\obj\Debug\MPG Regular.pdb

@@ -1,0 +1,12 @@
+D:\CIS 180\VB\Stats\Stats\bin\Debug\Stats.exe.config
+D:\CIS 180\VB\Stats\Stats\bin\Debug\Stats.exe
+D:\CIS 180\VB\Stats\Stats\bin\Debug\Stats.pdb
+D:\CIS 180\VB\Stats\Stats\bin\Debug\Stats.xml
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.vbprojAssemblyReference.cache
+D:\CIS 180\VB\Stats\Stats\obj\Debug\VB_Review.Form1.resources
+D:\CIS 180\VB\Stats\Stats\obj\Debug\VB_Review.Resources.resources
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.vbproj.GenerateResource.cache
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.vbproj.CoreCompileInputs.cache
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.exe
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.xml
+D:\CIS 180\VB\Stats\Stats\obj\Debug\Stats.pdb
